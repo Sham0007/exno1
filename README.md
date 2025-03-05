@@ -21,7 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            ![Screenshot 2025-03-05 200306](https://github.com/user-attachments/assets/6252fef1-9bce-4a0e-a6c7-11110b7106b1)
+![Screenshot 2025-03-05 200306](https://github.com/user-attachments/assets/ff77c399-5fc0-47e6-bec0-5d7d21272150)
+ ![Screenshot 2025-03-05 200306](https://github.com/user-attachments/assets/6252fef1-9bce-4a0e-a6c7-11110b7106b1)
 ![Screenshot 2025-03-05 200541](https://github.com/user-attachments/assets/19d76b92-1f8c-477b-8b60-2016dfdc2896)
 ![Screenshot 2025-03-05 200633](https://github.com/user-attachments/assets/2d9990a7-b4d0-4390-bba3-03e0093ad9c0)
 ![Screenshot 2025-03-05 200713](https://github.com/user-attachments/assets/25044efc-2e76-4ce0-a65b-8d2b6657f48b)
