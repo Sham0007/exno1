@@ -21,7 +21,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-![Screenshot 2025-03-05 200306](https://github.com/user-attachments/assets/ff77c399-5fc0-47e6-bec0-5d7d21272150)
  ![Screenshot 2025-03-05 200306](https://github.com/user-attachments/assets/6252fef1-9bce-4a0e-a6c7-11110b7106b1)
 ![Screenshot 2025-03-05 200541](https://github.com/user-attachments/assets/19d76b92-1f8c-477b-8b60-2016dfdc2896)
 ![Screenshot 2025-03-05 200633](https://github.com/user-attachments/assets/2d9990a7-b4d0-4390-bba3-03e0093ad9c0)
@@ -38,6 +37,11 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2025-03-05 201505](https://github.com/user-attachments/assets/7245c020-c0d0-4d4b-8925-feab9b4dce7d)
 ![Screenshot 2025-03-05 201600](https://github.com/user-attachments/assets/33f941c2-ccb6-4a83-b56e-8e7222bd621e)
 ![Screenshot 2025-03-05 201626](https://github.com/user-attachments/assets/a903fef9-c148-4e79-8dfc-d32854323977)
+![Screenshot 2025-03-05 201655](https://github.com/user-attachments/assets/fb573098-4a38-4f79-a856-1473660915cc)
+![Screenshot 2025-03-05 201723](https://github.com/user-attachments/assets/bc4a0631-e07a-4ef4-9522-927fe3f91d82)
+![Screenshot 2025-03-05 201758](https://github.com/user-attachments/assets/ac46d13a-5315-42cf-a03e-b1ea8b343ba9)
+![Screenshot 2025-03-05 201833](https://github.com/user-attachments/assets/3c947e86-b910-4a37-99af-f0c03ff50d70)
+![Screenshot 2025-03-05 201910](https://github.com/user-attachments/assets/6304d375-4f06-49f5-b937-2b97074a1260)
 
 # Result
-          <<include your Result here>>
+thus the above program has been executed successfully
